@@ -16,7 +16,17 @@ export const projects = [
     source: 'https://testing-philosophy101.firebaseapp.com/',
     visit: 'https://github.com/lijojosef/philosophy101WithMathewVarghese',
     id: 1,
+  },
+  {
+    title: 'React based portfolio',
+    description: "My portfolio webiste made with react.  ",
+    image: '/images/website.jpg',
+    tags: ['React', 'JavaScript'],
+    source: 'https://lijojosef-blog.web.app/',
+    visit: 'https://github.com/lijojosef/reactProjForPortfolio',
+    id: 2,
   }
+
 ];
 
 export const TimeLineData = [
